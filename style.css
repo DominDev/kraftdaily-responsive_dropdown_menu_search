@@ -68,7 +68,6 @@ nav .content .links {
 .wrapper #show-search:checked ~ .search-icon i::before {
   content: "\f00d";
 }
-
 .wrapper .search-box {
   position: absolute;
   height: 100%;
@@ -112,7 +111,6 @@ nav .content .links {
 .wrapper input[type="checkbox"] {
   display: none;
 }
-
 /* Dropdown Menu code start */
 .content .links ul {
   position: absolute;
@@ -145,7 +143,6 @@ nav .content .links {
 .content .links ul li:hover ul {
   top: 0;
 }
-
 /* Responsive code start */
 @media screen and (max-width: 1250px) {
   .wrapper nav {
@@ -165,7 +162,6 @@ nav .content .links {
     padding: 0 100px 0 15px;
   }
 }
-
 @media screen and (max-width: 900px) {
   .wrapper .menu-icon {
     display: block;
@@ -204,7 +200,6 @@ nav .content .links {
   .content .links li a.desktop-link {
     display: none;
   }
-
   /* dropdown responsive code start */
   .content .links ul,
   .content .links ul ul {
@@ -229,7 +224,6 @@ nav .content .links {
     border-radius: 5px !important;
   }
 }
-
 @media screen and (max-width: 400px) {
   .wrapper nav {
     padding: 0 10px;
@@ -248,7 +242,6 @@ nav .content .links {
     padding-right: 30px;
   }
 }
-
 .dummy-text {
   position: absolute;
   top: 50%;
