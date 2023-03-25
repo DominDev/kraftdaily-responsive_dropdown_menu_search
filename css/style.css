@@ -256,3 +256,8 @@ nav .content .links {
   font-size: 45px;
   margin: 5px 0;
 }
+.dummy-text h3 {
+  color: red;
+  font-size: 30px;
+  margin: 5px 0;
+}
