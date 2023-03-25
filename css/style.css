@@ -253,29 +253,32 @@ nav .content .links {
   transform: translate(-50%, -50%);
 }
 .dummy-text h2 {
-  font-size: 45px;
+  font-size: 40px;
   margin: 5px 0;
 }
 .dummy-text h3 {
   color: red;
-  font-size: 30px;
-  margin: 5px 0;
+  font-size: 20px;
+  /* margin: 10px 0; */
 }
 
 .dummy-text h3 .subtextlink-1 {
+  text-align: center;
   color: green;
-  font-size: 30px;
-  margin: 5px 0;
+  /* font-size: 30px;
+  margin: 5px 0; */
 }
 
 .dummy-text h3 .subtextlink-2 {
+  text-align: center;
   color: rgb(47, 130, 255);
-  font-size: 30px;
-  margin: 5px 0;
+  /* font-size: 30px;
+  margin: 5px 0; */
 }
 
 .dummy-text h3 .subtextlink-3 {
+  text-align: center;
   color: rgb(120, 47, 255);
-  font-size: 30px;
-  margin: 5px 0;
+  /* font-size: 30px;
+  margin: 5px 0; */
 }
