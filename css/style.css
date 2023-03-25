@@ -33,6 +33,7 @@ nav .content .links {
   font-size: 30px;
   font-weight: 600;
   display: flex;
+  align-items: center;
 }
 .nav-img {
   margin: 0 5px;
