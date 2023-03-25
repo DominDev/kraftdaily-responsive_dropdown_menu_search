@@ -261,3 +261,15 @@ nav .content .links {
   font-size: 30px;
   margin: 5px 0;
 }
+
+.dummy-text h3 .subtextlink-1 {
+  color: green;
+  font-size: 30px;
+  margin: 5px 0;
+}
+
+.dummy-text h3 .subtextlink-2 {
+  color: rgb(47, 130, 255);
+  font-size: 30px;
+  margin: 5px 0;
+}
